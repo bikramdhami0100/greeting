@@ -1,5 +1,5 @@
 {
-    "name": "bikram/greeting",
+    "name": "bikram_greeting_0011/greeting",
     "description": "this is greeting",
     "require-dev": {
         "predis/predis": "^3.2"
